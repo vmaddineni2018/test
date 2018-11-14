@@ -12,4 +12,3 @@ git commit -m "$commitMessage"
 
 git push origin $branchName
 
-read
